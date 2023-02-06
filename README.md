@@ -93,5 +93,3 @@ The command line parameter ```--dirName Directory``` is a repository for reading
 spark-submit *mlAlgorithm*.py --dirName Result
 ```
 
-If you meet any problem on running, please email to the leader scyzw1@nottingham.edu.cn.
-# Spark_Spain_train
